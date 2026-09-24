@@ -13,7 +13,7 @@
 Install Aero with a single command directly into your terminal:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/nexsus404-gif/aero/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nexsus404-gif/aero-pm/main/install.sh | bash
 ```
 
 ---
