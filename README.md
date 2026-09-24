@@ -17,7 +17,7 @@ aero search <query>       # Search available packages
 aero info <package>       # Show package details
 ```
 How It Works
-
+`
     Manifests served via GitHub Pages (no rate limits)
     Binaries stored in GitHub Releases
     SHA-256 integrity verification on every install
